@@ -379,7 +379,9 @@ body.dark-mode {
 .work__img img:hover {
   transform: scale(1.1);
 }
-
+.ist {
+  height: 14rem;
+}
 /* ===== CONTACT =====*/
 .contact__input {
   width: 100%;
